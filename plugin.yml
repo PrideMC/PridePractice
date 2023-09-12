@@ -1,0 +1,8 @@
+---
+name: PridePractice
+version: 4.0
+main: PridePractice\PracticeCore
+api: 5.0.0
+depend: PrideCore
+description: A official organization plugin for minecraft bedrock edition server.
+...
